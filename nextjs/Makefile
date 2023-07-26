@@ -1,0 +1,2 @@
+server:
+	pnpm run dev
